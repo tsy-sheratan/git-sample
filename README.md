@@ -6,4 +6,4 @@
 - foo
 - testtest!!
 - PRマージテスト
-- A
+- AA
