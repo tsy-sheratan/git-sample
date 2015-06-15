@@ -1,4 +1,3 @@
 DDDD
-aaaaBBB
-CCC
+CddddCC
 CommitA2の次に追記
